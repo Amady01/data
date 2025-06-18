@@ -12,7 +12,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
+                "Nyarugenge",
+                "Gasabo",
+                "Kicukiro",
+                "Nyanza",
+                "Gisagara",
+                "Nyaruguru",
+                "Huye",
+                "Nyamagabe",
+                "Ruhango",
+                "Muhanga",
+                "Kamonyi",
+                "Karongi",
+                "Rutsiro",
+                "Rubavu",
+                "Nyabihu",
+                "Ngororero",
+                "Rusizi",
+                "Nyamasheke",
+                "Rulindo",
+                "Gakenke",
+                "Musanze",
+                "Burera",
+                "Gicumbi",
+                "Rwamagana",
+                "Nyagatare",
+                "Gatsibo",
+                "Kayonza",
+                "Kirehe",
+                "Ngoma",
+                "Bugesera",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 years old and over",
+                "under 15 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

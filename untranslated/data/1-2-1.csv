@@ -1,137 +1,295 @@
-Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
-2000,,,,,,58.9
-2005,,,,,,56.7
-2011,,,,,,44.9
-2014,,,,,,39.1
-2017,,,,,,38.2
-2014,,Male,16 years old and over,,,33.2
-2017,,Male,16 years old and over,,,31.6
-2014,,Female,16 years old and over,,,35.9
-2017,,Female,16 years old and over,,,34.8
-2014,,Male,under 15 years old,,,44.7
-2017,,Male,under 15 years old,,,44.2
-2014,,Female,under 15 years old,,,44.6
-2017,,Female,under 15 years old,,,44.8
-2005,,,,Urban,,28.5
-2011,,,,Urban,,22.1
-2014,,,,Urban,,15.9
-2017,,,,Urban,,15.8
-2005,,,,Rural,,61.9
-2011,,,,Rural,,48.7
-2014,,,,Rural,,43.7
-2017,,,,Rural,,43.1
-2000,City of Kigali,,,,1.0,22.7
-2005,City of Kigali,,,,1.0,20.8
-2011,City of Kigali,,,,1.0,16.8
-2014,City of Kigali,,,,1.0,20.9
-2017,City of Kigali,,,,1.0,13.9
-2000,Southern Province,,,,2.0,65.5
-2005,Southern Province,,,,2.0,66.7
-2011,Southern Province,,,,2.0,56.5
-2014,Southern Province,,,,2.0,38.4
-2017,Southern Province,,,,2.0,41.4
-2000,Western Province,,,,3.0,62.3
-2005,Western Province,,,,3.0,60.4
-2011,Western Province,,,,3.0,48.4
-2014,Western Province,,,,3.0,45.2
-2017,Western Province,,,,3.0,47.1
-2000,Northern Province,,,,4.0,64.2
-2005,Northern Province,,,,4.0,60.5
-2011,Northern Province,,,,4.0,42.8
-2014,Northern Province,,,,4.0,45.9
-2017,Northern Province,,,,4.0,42.3
-2000,Eastern Province,,,,5.0,59.3
-2005,Eastern Province,,,,5.0,52.1
-2011,Eastern Province,,,,5.0,42.6
-2014,Eastern Province,,,,5.0,38.0
-2017,Eastern Province,,,,5.0,37.4
-2011,Nyarugenge,,,,11.0,10.1
-2014,Nyarugenge,,,,11.0,19.9
-2017,Nyarugenge,,,,11.0,11.8
-2011,Gasabo,,,,12.0,26.0
-2014,Gasabo,,,,12.0,23.4
-2017,Gasabo,,,,12.0,15.8
-2011,Kicukiro,,,,13.0,8.3
-2014,Kicukiro,,,,13.0,16.3
-2017,Kicukiro,,,,13.0,11.4
-2011,Nyanza,,,,21.0,49.8
-2014,Nyanza,,,,21.0,38.0
-2017,Nyanza,,,,21.0,46.5
-2011,Gisagara,,,,22.0,59.4
-2014,Gisagara,,,,22.0,53.3
-2017,Gisagara,,,,22.0,55.6
-2011,Nyaruguru,,,,23.0,61.6
-2014,Nyaruguru,,,,23.0,47.9
-2017,Nyaruguru,,,,23.0,52.4
-2011,Huye,,,,24.0,46.6
-2014,Huye,,,,24.0,32.5
-2017,Huye,,,,24.0,40.2
-2011,Nyamagabe,,,,25.0,73.3
-2014,Nyamagabe,,,,25.0,41.5
-2017,Nyamagabe,,,,25.0,48.6
-2011,Ruhango,,,,26.0,60.4
-2014,Ruhango,,,,26.0,37.8
-2017,Ruhango,,,,26.0,38.0
-2011,Muhanga,,,,27.0,53.6
-2014,Muhanga,,,,27.0,30.5
-2017,Muhanga,,,,27.0,32.6
-2011,Kamonyi,,,,28.0,46.7
-2014,Kamonyi,,,,28.0,25.9
-2017,Kamonyi,,,,28.0,22.3
-2011,Karongi,,,,31.0,61.7
-2014,Karongi,,,,31.0,45.3
-2017,Karongi,,,,31.0,52.7
-2011,Rutsiro,,,,32.0,53.0
-2014,Rutsiro,,,,32.0,51.4
-2017,Rutsiro,,,,32.0,49.5
-2011,Rubavu,,,,33.0,35.8
-2014,Rubavu,,,,33.0,35.5
-2017,Rubavu,,,,33.0,35.7
-2011,Nyabihu,,,,34.0,28.6
-2014,Nyabihu,,,,34.0,39.6
-2017,Nyabihu,,,,34.0,46.8
-2011,Ngororero,,,,35.0,51.9
-2014,Ngororero,,,,35.0,49.6
-2017,Ngororero,,,,35.0,47.7
-2011,Rusizi,,,,36.0,45.0
-2014,Rusizi,,,,36.0,35.1
-2017,Rusizi,,,,36.0,33.5
-2011,Nyamasheke,,,,37.0,63.4
-2014,Nyamasheke,,,,37.0,62.0
-2017,Nyamasheke,,,,37.0,69.3
-2011,Rulindo,,,,41.0,42.9
-2014,Rulindo,,,,41.0,48.1
-2017,Rulindo,,,,41.0,54.2
-2011,Gakenke,,,,42.0,56.6
-2014,Gakenke,,,,42.0,42.0
-2017,Gakenke,,,,42.0,34.2
-2011,Musanze,,,,43.0,20.1
-2014,Musanze,,,,43.0,34.9
-2017,Musanze,,,,43.0,40.7
-2011,Burera,,,,44.0,45.2
-2014,Burera,,,,44.0,50.4
-2017,Burera,,,,44.0,49.8
-2011,Gicumbi,,,,45.0,49.3
-2014,Gicumbi,,,,45.0,55.3
-2017,Gicumbi,,,,45.0,34.7
-2011,Rwamagana,,,,51.0,30.4
-2014,Rwamagana,,,,51.0,25.4
-2017,Rwamagana,,,,51.0,18.9
-2011,Nyagatare,,,,52.0,37.8
-2014,Nyagatare,,,,52.0,44.1
-2017,Nyagatare,,,,52.0,44.8
-2011,Gatsibo,,,,53.0,43.1
-2014,Gatsibo,,,,53.0,43.8
-2017,Gatsibo,,,,53.0,42.1
-2011,Kayonza,,,,54.0,42.6
-2014,Kayonza,,,,54.0,26.4
-2017,Kayonza,,,,54.0,26.7
-2011,Kirehe,,,,55.0,47.9
-2014,Kirehe,,,,55.0,41.8
-2017,Kirehe,,,,55.0,44.6
-2011,Ngoma,,,,56.0,47.6
-2014,Ngoma,,,,56.0,46.8
-2017,Ngoma,,,,56.0,37.8
-2011,Bugesera,,,,57.0,48.4
-2014,Bugesera,,,,57.0,34.3
-2017,Bugesera,,,,57.0,40.3
+Year,Age,Observation status,Sex,Unit measure,Unit multiplier,Value
+2005,,Undefined,,Percentage (%),Units,19.0
+2005,15 and under,Undefined,,Percentage (%),Units,23.3
+2005,16 to 24,Undefined,,Percentage (%),Units,23.4
+2005,25 to 49,Undefined,,Percentage (%),Units,14.4
+2005,50 to 64,Undefined,,Percentage (%),Units,15.6
+2005,65 to 74,Undefined,,Percentage (%),Units,21.4
+2005,75 and over,Undefined,,Percentage (%),Units,28.7
+2005,,Undefined,Female,Percentage (%),Units,19.4
+2005,15 and under,Undefined,Female,Percentage (%),Units,22.3
+2005,16 to 24,Undefined,Female,Percentage (%),Units,22.4
+2005,25 to 49,Undefined,Female,Percentage (%),Units,15.3
+2005,50 to 64,Undefined,Female,Percentage (%),Units,15.4
+2005,65 to 74,Undefined,Female,Percentage (%),Units,23.2
+2005,75 and over,Undefined,Female,Percentage (%),Units,31.0
+2005,,Undefined,Male,Percentage (%),Units,18.6
+2005,15 and under,Undefined,Male,Percentage (%),Units,24.4
+2005,16 to 24,Undefined,Male,Percentage (%),Units,24.3
+2005,25 to 49,Undefined,Male,Percentage (%),Units,13.5
+2005,50 to 64,Undefined,Male,Percentage (%),Units,15.8
+2005,65 to 74,Undefined,Male,Percentage (%),Units,19.4
+2005,75 and over,Undefined,Male,Percentage (%),Units,25.2
+2006,,Undefined,,Percentage (%),Units,19.0
+2006,15 and under,Undefined,,Percentage (%),Units,24.5
+2006,16 to 24,Undefined,,Percentage (%),Units,21.0
+2006,25 to 49,Undefined,,Percentage (%),Units,13.8
+2006,50 to 64,Undefined,,Percentage (%),Units,15.8
+2006,65 to 74,Undefined,,Percentage (%),Units,21.7
+2006,75 and over,Undefined,,Percentage (%),Units,31.1
+2006,,Undefined,Female,Percentage (%),Units,19.9
+2006,15 and under,Undefined,Female,Percentage (%),Units,23.7
+2006,16 to 24,Undefined,Female,Percentage (%),Units,22.6
+2006,25 to 49,Undefined,Female,Percentage (%),Units,14.5
+2006,50 to 64,Undefined,Female,Percentage (%),Units,16.3
+2006,65 to 74,Undefined,Female,Percentage (%),Units,24.5
+2006,75 and over,Undefined,Female,Percentage (%),Units,33.4
+2006,,Undefined,Male,Percentage (%),Units,18.0
+2006,15 and under,Undefined,Male,Percentage (%),Units,25.4
+2006,16 to 24,Undefined,Male,Percentage (%),Units,19.6
+2006,25 to 49,Undefined,Male,Percentage (%),Units,13.0
+2006,50 to 64,Undefined,Male,Percentage (%),Units,15.4
+2006,65 to 74,Undefined,Male,Percentage (%),Units,18.6
+2006,75 and over,Undefined,Male,Percentage (%),Units,27.5
+2007,,Undefined,,Percentage (%),Units,18.6
+2007,15 and under,Undefined,,Percentage (%),Units,23.2
+2007,16 to 24,Undefined,,Percentage (%),Units,19.7
+2007,25 to 49,Undefined,,Percentage (%),Units,14.0
+2007,50 to 64,Undefined,,Percentage (%),Units,15.3
+2007,65 to 74,Undefined,,Percentage (%),Units,22.4
+2007,75 and over,Undefined,,Percentage (%),Units,31.2
+2007,,Undefined,Female,Percentage (%),Units,19.6
+2007,15 and under,Undefined,Female,Percentage (%),Units,23.4
+2007,16 to 24,Undefined,Female,Percentage (%),Units,21.0
+2007,25 to 49,Undefined,Female,Percentage (%),Units,14.8
+2007,50 to 64,Undefined,Female,Percentage (%),Units,15.3
+2007,65 to 74,Undefined,Female,Percentage (%),Units,25.3
+2007,75 and over,Undefined,Female,Percentage (%),Units,32.7
+2007,,Undefined,Male,Percentage (%),Units,17.6
+2007,15 and under,Undefined,Male,Percentage (%),Units,23.1
+2007,16 to 24,Undefined,Male,Percentage (%),Units,18.4
+2007,25 to 49,Undefined,Male,Percentage (%),Units,13.2
+2007,50 to 64,Undefined,Male,Percentage (%),Units,15.4
+2007,65 to 74,Undefined,Male,Percentage (%),Units,19.1
+2007,75 and over,Undefined,Male,Percentage (%),Units,29.0
+2008,,Undefined,,Percentage (%),Units,18.7
+2008,15 and under,Undefined,,Percentage (%),Units,24.4
+2008,16 to 24,Undefined,,Percentage (%),Units,18.8
+2008,25 to 49,Undefined,,Percentage (%),Units,13.5
+2008,50 to 64,Undefined,,Percentage (%),Units,15.3
+2008,65 to 74,Undefined,,Percentage (%),Units,23.9
+2008,75 and over,Undefined,,Percentage (%),Units,31.2
+2008,,Undefined,Female,Percentage (%),Units,20.0
+2008,15 and under,Undefined,Female,Percentage (%),Units,25.4
+2008,16 to 24,Undefined,Female,Percentage (%),Units,20.9
+2008,25 to 49,Undefined,Female,Percentage (%),Units,14.5
+2008,50 to 64,Undefined,Female,Percentage (%),Units,15.5
+2008,65 to 74,Undefined,Female,Percentage (%),Units,26.4
+2008,75 and over,Undefined,Female,Percentage (%),Units,33.1
+2008,,Undefined,Male,Percentage (%),Units,17.4
+2008,15 and under,Undefined,Male,Percentage (%),Units,23.5
+2008,16 to 24,Undefined,Male,Percentage (%),Units,16.9
+2008,25 to 49,Undefined,Male,Percentage (%),Units,12.6
+2008,50 to 64,Undefined,Male,Percentage (%),Units,15.0
+2008,65 to 74,Undefined,Male,Percentage (%),Units,21.3
+2008,75 and over,Undefined,Male,Percentage (%),Units,28.6
+2009,,Undefined,,Percentage (%),Units,17.3
+2009,15 and under,Undefined,,Percentage (%),Units,20.6
+2009,16 to 24,Undefined,,Percentage (%),Units,20.1
+2009,25 to 49,Undefined,,Percentage (%),Units,13.7
+2009,50 to 64,Undefined,,Percentage (%),Units,14.4
+2009,65 to 74,Undefined,,Percentage (%),Units,19.2
+2009,75 and over,Undefined,,Percentage (%),Units,25.8
+2009,,Undefined,Female,Percentage (%),Units,17.8
+2009,15 and under,Undefined,Female,Percentage (%),Units,21.3
+2009,16 to 24,Undefined,Female,Percentage (%),Units,20.7
+2009,25 to 49,Undefined,Female,Percentage (%),Units,14.0
+2009,50 to 64,Undefined,Female,Percentage (%),Units,13.8
+2009,65 to 74,Undefined,Female,Percentage (%),Units,21.3
+2009,75 and over,Undefined,Female,Percentage (%),Units,27.0
+2009,,Undefined,Male,Percentage (%),Units,16.7
+2009,15 and under,Undefined,Male,Percentage (%),Units,20.1
+2009,16 to 24,Undefined,Male,Percentage (%),Units,19.5
+2009,25 to 49,Undefined,Male,Percentage (%),Units,13.4
+2009,50 to 64,Undefined,Male,Percentage (%),Units,14.9
+2009,65 to 74,Undefined,Male,Percentage (%),Units,16.9
+2009,75 and over,Undefined,Male,Percentage (%),Units,24.2
+2010,,Undefined,,Percentage (%),Units,17.1
+2010,15 and under,Undefined,,Percentage (%),Units,20.0
+2010,16 to 24,Undefined,,Percentage (%),Units,21.2
+2010,25 to 49,Undefined,,Percentage (%),Units,13.7
+2010,50 to 64,Undefined,,Percentage (%),Units,14.3
+2010,65 to 74,Undefined,,Percentage (%),Units,17.8
+2010,75 and over,Undefined,,Percentage (%),Units,25.5
+2010,,Undefined,Female,Percentage (%),Units,17.8
+2010,15 and under,Undefined,Female,Percentage (%),Units,19.3
+2010,16 to 24,Undefined,Female,Percentage (%),Units,21.3
+2010,25 to 49,Undefined,Female,Percentage (%),Units,14.8
+2010,50 to 64,Undefined,Female,Percentage (%),Units,13.6
+2010,65 to 74,Undefined,Female,Percentage (%),Units,20.0
+2010,75 and over,Undefined,Female,Percentage (%),Units,29.0
+2010,,Undefined,Male,Percentage (%),Units,16.4
+2010,15 and under,Undefined,Male,Percentage (%),Units,20.6
+2010,16 to 24,Undefined,Male,Percentage (%),Units,21.0
+2010,25 to 49,Undefined,Male,Percentage (%),Units,12.7
+2010,50 to 64,Undefined,Male,Percentage (%),Units,15.1
+2010,65 to 74,Undefined,Male,Percentage (%),Units,15.4
+2010,75 and over,Undefined,Male,Percentage (%),Units,20.6
+2011,,Undefined,,Percentage (%),Units,16.2
+2011,15 and under,Undefined,,Percentage (%),Units,17.6
+2011,16 to 24,Undefined,,Percentage (%),Units,20.1
+2011,25 to 49,Undefined,,Percentage (%),Units,12.3
+2011,50 to 64,Undefined,,Percentage (%),Units,14.5
+2011,65 to 74,Undefined,,Percentage (%),Units,17.3
+2011,75 and over,Undefined,,Percentage (%),Units,27.2
+2011,,Undefined,Female,Percentage (%),Units,17.6
+2011,15 and under,Undefined,Female,Percentage (%),Units,17.5
+2011,16 to 24,Undefined,Female,Percentage (%),Units,23.7
+2011,25 to 49,Undefined,Female,Percentage (%),Units,13.2
+2011,50 to 64,Undefined,Female,Percentage (%),Units,15.0
+2011,65 to 74,Undefined,Female,Percentage (%),Units,19.5
+2011,75 and over,Undefined,Female,Percentage (%),Units,30.5
+2011,,Undefined,Male,Percentage (%),Units,14.8
+2011,15 and under,Undefined,Male,Percentage (%),Units,17.7
+2011,16 to 24,Undefined,Male,Percentage (%),Units,16.7
+2011,25 to 49,Undefined,Male,Percentage (%),Units,11.5
+2011,50 to 64,Undefined,Male,Percentage (%),Units,14.1
+2011,65 to 74,Undefined,Male,Percentage (%),Units,14.8
+2011,75 and over,Undefined,Male,Percentage (%),Units,22.7
+2012,,Undefined,,Percentage (%),Units,16.0
+2012,15 and under,Undefined,,Percentage (%),Units,17.6
+2012,16 to 24,Undefined,,Percentage (%),Units,23.2
+2012,25 to 49,Undefined,,Percentage (%),Units,12.9
+2012,50 to 64,Undefined,,Percentage (%),Units,15.2
+2012,65 to 74,Undefined,,Percentage (%),Units,13.6
+2012,75 and over,Undefined,,Percentage (%),Units,19.8
+2012,,Undefined,Female,Percentage (%),Units,16.3
+2012,15 and under,Undefined,Female,Percentage (%),Units,18.4
+2012,16 to 24,Undefined,Female,Percentage (%),Units,21.8
+2012,25 to 49,Undefined,Female,Percentage (%),Units,13.3
+2012,50 to 64,Undefined,Female,Percentage (%),Units,14.8
+2012,65 to 74,Undefined,Female,Percentage (%),Units,14.3
+2012,75 and over,Undefined,Female,Percentage (%),Units,21.4
+2012,,Undefined,Male,Percentage (%),Units,15.8
+2012,15 and under,Undefined,Male,Percentage (%),Units,16.8
+2012,16 to 24,Undefined,Male,Percentage (%),Units,24.5
+2012,25 to 49,Undefined,Male,Percentage (%),Units,12.6
+2012,50 to 64,Undefined,Male,Percentage (%),Units,15.6
+2012,65 to 74,Undefined,Male,Percentage (%),Units,12.9
+2012,75 and over,Undefined,Male,Percentage (%),Units,17.7
+2013,,Undefined,,Percentage (%),Units,15.9
+2013,15 and under,Undefined,,Percentage (%),Units,18.1
+2013,16 to 24,Undefined,,Percentage (%),Units,22.4
+2013,25 to 49,Undefined,,Percentage (%),Units,12.9
+2013,50 to 64,Undefined,,Percentage (%),Units,14.5
+2013,65 to 74,Undefined,,Percentage (%),Units,13.2
+2013,75 and over,Undefined,,Percentage (%),Units,20.7
+2013,,Undefined,Female,Percentage (%),Units,16.4
+2013,15 and under,Undefined,Female,Percentage (%),Units,18.3
+2013,16 to 24,Undefined,Female,Percentage (%),Units,23.1
+2013,25 to 49,Undefined,Female,Percentage (%),Units,13.6
+2013,50 to 64,Undefined,Female,Percentage (%),Units,13.9
+2013,65 to 74,Undefined,Female,Percentage (%),Units,14.2
+2013,75 and over,Undefined,Female,Percentage (%),Units,22.7
+2013,,Undefined,Male,Percentage (%),Units,15.4
+2013,15 and under,Undefined,Male,Percentage (%),Units,18.0
+2013,16 to 24,Undefined,Male,Percentage (%),Units,21.7
+2013,25 to 49,Undefined,Male,Percentage (%),Units,12.3
+2013,50 to 64,Undefined,Male,Percentage (%),Units,15.1
+2013,65 to 74,Undefined,Male,Percentage (%),Units,12.2
+2013,75 and over,Undefined,Male,Percentage (%),Units,18.0
+2014,,Undefined,,Percentage (%),Units,16.8
+2014,15 and under,Undefined,,Percentage (%),Units,19.1
+2014,16 to 24,Undefined,,Percentage (%),Units,23.2
+2014,25 to 49,Undefined,,Percentage (%),Units,14.0
+2014,50 to 64,Undefined,,Percentage (%),Units,15.1
+2014,65 to 74,Undefined,,Percentage (%),Units,13.6
+2014,75 and over,Undefined,,Percentage (%),Units,22.7
+2014,,Undefined,Female,Percentage (%),Units,17.6
+2014,15 and under,Undefined,Female,Percentage (%),Units,19.0
+2014,16 to 24,Undefined,Female,Percentage (%),Units,25.3
+2014,25 to 49,Undefined,Female,Percentage (%),Units,14.1
+2014,50 to 64,Undefined,Female,Percentage (%),Units,15.5
+2014,65 to 74,Undefined,Female,Percentage (%),Units,15.0
+2014,75 and over,Undefined,Female,Percentage (%),Units,25.5
+2014,,Undefined,Male,Percentage (%),Units,16.0
+2014,15 and under,Undefined,Male,Percentage (%),Units,19.2
+2014,16 to 24,Undefined,Male,Percentage (%),Units,21.2
+2014,25 to 49,Undefined,Male,Percentage (%),Units,13.8
+2014,50 to 64,Undefined,Male,Percentage (%),Units,14.7
+2014,65 to 74,Undefined,Male,Percentage (%),Units,12.0
+2014,75 and over,Undefined,Male,Percentage (%),Units,18.8
+2015,,Undefined,,Percentage (%),Units,16.6
+2015,15 and under,Undefined,,Percentage (%),Units,19.5
+2015,16 to 24,Undefined,,Percentage (%),Units,24.9
+2015,25 to 49,Undefined,,Percentage (%),Units,13.6
+2015,50 to 64,Undefined,,Percentage (%),Units,14.5
+2015,65 to 74,Undefined,,Percentage (%),Units,13.1
+2015,75 and over,Undefined,,Percentage (%),Units,20.8
+2015,,Undefined,Female,Percentage (%),Units,17.2
+2015,15 and under,Undefined,Female,Percentage (%),Units,20.9
+2015,16 to 24,Undefined,Female,Percentage (%),Units,25.5
+2015,25 to 49,Undefined,Female,Percentage (%),Units,13.6
+2015,50 to 64,Undefined,Female,Percentage (%),Units,14.9
+2015,65 to 74,Undefined,Female,Percentage (%),Units,13.4
+2015,75 and over,Undefined,Female,Percentage (%),Units,22.9
+2015,,Undefined,Male,Percentage (%),Units,16.1
+2015,15 and under,Undefined,Male,Percentage (%),Units,18.3
+2015,16 to 24,Undefined,Male,Percentage (%),Units,24.4
+2015,25 to 49,Undefined,Male,Percentage (%),Units,13.6
+2015,50 to 64,Undefined,Male,Percentage (%),Units,14.1
+2015,65 to 74,Undefined,Male,Percentage (%),Units,12.7
+2015,75 and over,Undefined,Male,Percentage (%),Units,18.1
+2016,,Undefined,,Percentage (%),Units,15.9
+2016,15 and under,Undefined,,Percentage (%),Units,18.1
+2016,16 to 24,Undefined,,Percentage (%),Units,19.9
+2016,25 to 49,Undefined,,Percentage (%),Units,13.3
+2016,50 to 64,Undefined,,Percentage (%),Units,14.7
+2016,65 to 74,Undefined,,Percentage (%),Units,13.7
+2016,75 and over,Undefined,,Percentage (%),Units,21.4
+2016,,Undefined,Female,Percentage (%),Units,16.5
+2016,15 and under,Undefined,Female,Percentage (%),Units,18.1
+2016,16 to 24,Undefined,Female,Percentage (%),Units,21.6
+2016,25 to 49,Undefined,Female,Percentage (%),Units,13.6
+2016,50 to 64,Undefined,Female,Percentage (%),Units,14.2
+2016,65 to 74,Undefined,Female,Percentage (%),Units,16.0
+2016,75 and over,Undefined,Female,Percentage (%),Units,23.4
+2016,,Undefined,Male,Percentage (%),Units,15.2
+2016,15 and under,Undefined,Male,Percentage (%),Units,18.1
+2016,16 to 24,Undefined,Male,Percentage (%),Units,18.2
+2016,25 to 49,Undefined,Male,Percentage (%),Units,12.9
+2016,50 to 64,Undefined,Male,Percentage (%),Units,15.1
+2016,65 to 74,Undefined,Male,Percentage (%),Units,11.3
+2016,75 and over,Undefined,Male,Percentage (%),Units,18.8
+2017,,Undefined,,Percentage (%),Units,17.0
+2017,15 and under,Undefined,,Percentage (%),Units,21.1
+2017,16 to 24,Undefined,,Percentage (%),Units,20.8
+2017,25 to 49,Undefined,,Percentage (%),Units,13.7
+2017,50 to 64,Undefined,,Percentage (%),Units,16.6
+2017,65 to 74,Undefined,,Percentage (%),Units,13.4
+2017,75 and over,Undefined,,Percentage (%),Units,21.3
+2017,,Undefined,Female,Percentage (%),Units,17.9
+2017,15 and under,Undefined,Female,Percentage (%),Units,21.0
+2017,16 to 24,Undefined,Female,Percentage (%),Units,21.8
+2017,25 to 49,Undefined,Female,Percentage (%),Units,15.2
+2017,50 to 64,Undefined,Female,Percentage (%),Units,16.3
+2017,65 to 74,Undefined,Female,Percentage (%),Units,14.3
+2017,75 and over,Undefined,Female,Percentage (%),Units,24.1
+2017,,Undefined,Male,Percentage (%),Units,16.1
+2017,15 and under,Undefined,Male,Percentage (%),Units,21.1
+2017,16 to 24,Undefined,Male,Percentage (%),Units,19.8
+2017,25 to 49,Undefined,Male,Percentage (%),Units,12.2
+2017,50 to 64,Undefined,Male,Percentage (%),Units,16.8
+2017,65 to 74,Undefined,Male,Percentage (%),Units,12.6
+2017,75 and over,Undefined,Male,Percentage (%),Units,17.6
+2018,,Undefined,,Percentage (%),Units,18.9
+2018,15 and under,Undefined,,Percentage (%),Units,23.9
+2018,16 to 24,Undefined,,Percentage (%),Units,24.0
+2018,25 to 49,Undefined,,Percentage (%),Units,15.2
+2018,50 to 64,Undefined,,Percentage (%),Units,17.2
+2018,65 to 74,Undefined,,Percentage (%),Units,15.4
+2018,75 and over,Undefined,,Percentage (%),Units,24.1
+2018,,Undefined,Female,Percentage (%),Units,20.1
+2018,15 and under,Undefined,Female,Percentage (%),Units,24.5
+2018,16 to 24,Undefined,Female,Percentage (%),Units,26.7
+2018,25 to 49,Undefined,Female,Percentage (%),Units,16.5
+2018,50 to 64,Undefined,Female,Percentage (%),Units,17.0
+2018,65 to 74,Undefined,Female,Percentage (%),Units,16.6
+2018,75 and over,Undefined,Female,Percentage (%),Units,27.4
+2018,,Undefined,Male,Percentage (%),Units,17.6
+2018,15 and under,Undefined,Male,Percentage (%),Units,23.3
+2018,16 to 24,Undefined,Male,Percentage (%),Units,21.4
+2018,25 to 49,Undefined,Male,Percentage (%),Units,13.8
+2018,50 to 64,Undefined,Male,Percentage (%),Units,17.4
+2018,65 to 74,Undefined,Male,Percentage (%),Units,14.2
+2018,75 and over,Undefined,Male,Percentage (%),Units,19.9

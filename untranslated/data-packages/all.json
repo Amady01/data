@@ -3,61 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all",
-                "15-49",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geography",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "national",
-                "rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
-    },
-    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
@@ -123,84 +68,41 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Nyanza",
-                "Gisagara",
-                "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
-                "Rusizi",
-                "Nyamasheke",
-                "Rulindo",
-                "Gakenke",
-                "Musanze",
-                "Burera",
-                "Gicumbi",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
-                "Kirehe",
-                "Ngoma",
-                "Bugesera",
+                "15 and under",
+                "16 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 to 74",
+                "75 and over",
                 ""
               ]
             }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 years old and over",
-                "under 15 years old",
-                ""
-              ]
-            }
+            "name": "Unit measure",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
@@ -328,6 +230,61 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "15-49",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "national",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "1-5-1/data.csv",

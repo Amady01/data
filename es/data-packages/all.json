@@ -18,36 +18,46 @@
             "title": "Año"
           },
           {
-            "name": "Reference area",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
+                "17 and under",
+                "18 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "Age"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Sex"
           },
           {
-            "name": "GeoCode",
+            "name": "Unit measure",
             "type": "string",
-            "title": "GeoCode"
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

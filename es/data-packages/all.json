@@ -18,46 +18,36 @@
             "title": "Año"
           },
           {
-            "name": "Age",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Reference area"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Sex",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Degree of urbanisation"
           },
           {
-            "name": "Unit measure",
+            "name": "GeoCode",
             "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -84,47 +74,90 @@
             "title": "Año"
           },
           {
-            "name": "Age",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 and under",
-                "16 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 to 74",
-                "75 and over",
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
+                "Nyarugenge",
+                "Gasabo",
+                "Kicukiro",
+                "Nyanza",
+                "Gisagara",
+                "Nyaruguru",
+                "Huye",
+                "Nyamagabe",
+                "Ruhango",
+                "Muhanga",
+                "Kamonyi",
+                "Karongi",
+                "Rutsiro",
+                "Rubavu",
+                "Nyabihu",
+                "Ngororero",
+                "Rusizi",
+                "Nyamasheke",
+                "Rulindo",
+                "Gakenke",
+                "Musanze",
+                "Burera",
+                "Gicumbi",
+                "Rwamagana",
+                "Nyagatare",
+                "Gatsibo",
+                "Kayonza",
+                "Kirehe",
+                "Ngoma",
+                "Bugesera",
                 ""
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
+            "title": "Reference area"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
+            "name": "Age",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "16 years old and over",
+                "under 15 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Degree of urbanisation",
             "type": "string",
-            "title": "Unit multiplier"
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

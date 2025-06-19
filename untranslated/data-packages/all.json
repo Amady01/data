@@ -17,40 +17,32 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
                 ""
               ]
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
+            "name": "GeoCode",
             "type": "string"
           },
           {
@@ -76,41 +68,84 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 and under",
-                "16 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 to 74",
-                "75 and over",
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
+                "Nyarugenge",
+                "Gasabo",
+                "Kicukiro",
+                "Nyanza",
+                "Gisagara",
+                "Nyaruguru",
+                "Huye",
+                "Nyamagabe",
+                "Ruhango",
+                "Muhanga",
+                "Kamonyi",
+                "Karongi",
+                "Rutsiro",
+                "Rubavu",
+                "Nyabihu",
+                "Ngororero",
+                "Rusizi",
+                "Nyamasheke",
+                "Rulindo",
+                "Gakenke",
+                "Musanze",
+                "Burera",
+                "Gicumbi",
+                "Rwamagana",
+                "Nyagatare",
+                "Gatsibo",
+                "Kayonza",
+                "Kirehe",
+                "Ngoma",
+                "Bugesera",
                 ""
               ]
             }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 years old and over",
+                "under 15 years old",
+                ""
+              ]
+            }
           },
           {
-            "name": "Unit multiplier",
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
             "type": "string"
           },
           {
